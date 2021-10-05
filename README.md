@@ -1,0 +1,12 @@
+- Japanese Language Pack --- VS Codeを日本語化する
+- Prettier - Code formatter (by Prettier) --- JavaScript, CSS, Sass, JSON用に使うコードフォーマッター
+- PHP Intelephense --- PHP用ののリンター兼フォーマッター。WordPressにも対応
+- Twig Language 2 (by mblode) ---- Twigのハイライトとフォーマット用（EC-CUBE3,4）
+- Smarty Template Support ---- Smartyのハイライトとフォーマット用（EC-CUBE2系、MakeShop等）
+- indent-rainbow --- インデントに色をつける
+- Bracket Pair Colorizer 2 ---- コードの括弧に色をつける
+- Live Sass Compiler (by Glenn Marks) ---- Sassのコンパイル用
+- Live Server --- HTML用のライブサーバー
+- Live Preview --- HTML用のライブプレビュー
+- Live Share Extension Pack (Live Share + Live Share Audio) --- リアルタイムでのコードの共有編集を可能にする
+- テキスト校正くん --- テキストファイルやMarkDownファイルの校正用
