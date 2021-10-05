@@ -1,6 +1,7 @@
 {
   "window.zoomLevel": -1,
   "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
   "editor.linkedEditing": true,
   "html.autoClosingTags": false,
   "emmet.includeLanguages": {
