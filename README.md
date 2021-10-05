@@ -9,6 +9,6 @@
 - Live Server --- HTML用のライブサーバー
 - Live Preview --- HTML用のライブプレビュー
 - Live Share Extension Pack (Live Share + Live Share Audio) --- リアルタイムでのコードの共有編集を可能にする
-- Zenkaku --- 全角スペースをハイライト
+- Zenkaku --- 全角スペースをハイライト [常時オンにする方法](https://webrandum.net/vscode-extention-zenkaku/)
 - Trailing Spaces --- 行末の半角スペースをハイライト
 - テキスト校正くん --- テキストファイルやMarkDownファイルの校正用
