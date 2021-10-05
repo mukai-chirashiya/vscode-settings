@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import MyComponent from './MyComponent';
+import MyComponent from './MyComponent'
 
 const App = () => {
 
